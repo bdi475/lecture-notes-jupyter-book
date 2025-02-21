@@ -145,3 +145,5 @@ dmypy.json
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
+# Scratchpads
+scratchpads/
