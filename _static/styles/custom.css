@@ -1,0 +1,4 @@
+.navbar-brand img {
+  max-width: 100px; /* Adjust this value to your desired width */
+  height: auto;
+}
